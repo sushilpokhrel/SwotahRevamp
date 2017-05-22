@@ -1,0 +1,28 @@
+/*CSS FOR INDEX PAGE*/
+body{
+    background:#ECEFF1;
+
+}
+/*Start CSS for heading panel*/
+.heading-panel{
+    background: #607D8B;
+}
+.heading-panel .logo img{
+    height: 40px;
+}
+.heading-panel .icon{
+    color:#CFD8DC;
+    text-align: center;
+}
+.heading-panel  a{
+    color:#CFD8DC;
+    cursor:pointer
+}
+.heading-panel  a:hover{
+    border-bottom: 2px solid red;
+    cursor:pointer
+}
+
+
+
+/*End CSS for heading panel*/
