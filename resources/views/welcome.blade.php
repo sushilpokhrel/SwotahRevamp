@@ -4,7 +4,7 @@
 @section('title')Index Page @endsection
 {{--Title end--}}
 {{--Place for css links--}}
-<link rel="stylesheet" href="{{url('css/index_style.css')}}">
+<link rel="stylesheet" href="{{url('css/indexpage.css')}}">
 {{--End css--}}
 
 {{--Section for Meta Tags SEO Purposes yield('metatags')--}}
@@ -15,7 +15,7 @@
 @section('content')
     {{--Outer Layout --}}
         <div class="mdl-layout mdl-layout__content" >
-            <div class="index-image">
+            <div class="cover-img">
                 <img src="{{url('public_images/2.jpg')}}" alt="">
             </div>
             @include('layouts.nav')

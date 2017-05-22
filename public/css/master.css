@@ -1,0 +1,10 @@
+/* css for index page */
+body{
+    background:#ECEFF1;
+
+}
+.cover-image img{
+    max-width: 100%;
+    height:auto;
+    margin-top: 56px;
+}

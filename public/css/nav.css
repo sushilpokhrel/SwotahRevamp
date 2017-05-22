@@ -1,13 +1,4 @@
-/*CSS FOR INDEX PAGE*/
-body{
-    background:#ECEFF1;
 
-}
-.index-image img{
-    max-width: 100%;
-    height:auto;
-    margin-top: 56px;
-}
 /*Start CSS for heading panel*/
 .fixedheader {
     /*margin-top: 70px;*/
